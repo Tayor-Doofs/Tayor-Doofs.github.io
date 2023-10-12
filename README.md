@@ -1,4 +1,3 @@
-
 # DATA ANALYST/SCIENTIST
 Experienced Senior Data Analyst with over 5 years in diverse domains including business analysis, Risk and Compliance, and fraud monitoring. Proficient in leveraging data analytical tools to derive invaluable insight, adept at automating processes. Expertise in detecting and mitigating suspicious activities, driving data-driven decisions, and leading high-achieving teams.
 
